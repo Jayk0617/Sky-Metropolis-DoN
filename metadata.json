@@ -1,0 +1,5 @@
+{
+  "name": "Sky Metropolis DoN",
+  "description": "Manage a virtual metropolis and fulfill tasks provided by Gemini.",
+  "requestFramePermissions": []
+}
